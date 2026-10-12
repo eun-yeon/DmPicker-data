@@ -2,7 +2,7 @@
 
 [DM PICKER](https://github.com/eun-yeon/DmPicker)가 내려받는 곡 데이터입니다.
 
-DJMAX.GG의 곡 정보가 바뀌면 자동으로 새 릴리스가 올라오고, DM PICKER는 실행 중에 바뀐 부분만 받아 적용합니다. 이 저장소의 파일은 직접 고치지 않습니다.
+DJMAX.GG의 곡 정보가 바뀌면 자동으로 새 릴리스가 올라오고, DM PICKER는 실행 중에 바뀐 부분만 받아 적용합니다.
 
 ## 릴리스 파일
 
