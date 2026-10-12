@@ -18,6 +18,7 @@ DJMAX.GG의 곡 정보가 바뀌면 자동으로 새 릴리스가 올라오고, 
 - 곡 정보·검색어: [DJMAX.GG](https://djmax.gg)
 - 서열표: [V-Archive](https://v-archive.net)
 - 패턴 특성: [행이봇](https://xn--7n3br4q8ll.com)
+- 패턴 태그: [로페봇](https://xn--2o2bk9ff9x.com)
 
 ## 권리
 
